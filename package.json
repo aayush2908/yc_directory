@@ -14,7 +14,8 @@
   "packageManager": "npm@10.9.2",
   "overrides": {
     "react": "$react",
-    "react-dom": "$react-dom"
+    "react-dom": "$react-dom",
+    "next": "$next"
   },
   "dependencies": {
     "@radix-ui/react-avatar": "^1.1.3",
@@ -32,8 +33,8 @@
     "next-auth": "^5.0.0-beta.25",
     "next-sanity": "^9.8.58-canary.0",
     "next-themes": "^0.4.4",
-    "react": "19.0.0-rc-65a56d0e-20241020",
-    "react-dom": "19.0.0-rc-65a56d0e-20241020",
+    "react": "19.0.0-rc-2d16326d-20240930",
+    "react-dom": "19.0.0-rc-2d16326d-20240930",
     "react-is": "^19.0.0",
     "sanity": "^3.77.2",
     "sanity-plugin-markdown": "^5.0.0",
