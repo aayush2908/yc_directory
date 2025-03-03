@@ -9,10 +9,6 @@
     "lint": "next lint"
   },
   "packageManager": "npm@10.9.2",
-  "overrides": {
-    "react": "$react",
-    "react-dom": "$react-dom"
-  },
   "dependencies": {
     "@radix-ui/react-avatar": "^1.1.3",
     "@radix-ui/react-slot": "^1.1.2",
